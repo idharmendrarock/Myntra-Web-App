@@ -5,7 +5,7 @@ Myntra is a major Indian fashion e-commerce company headquartered in Bengaluru, 
 ---
 ## Links:
 
-- **Deployment URL:** https://myntra-web-app.netlify.app/
+- **Deployment URL:** https://myntra-web-8rshfwp1p-dharmendra-rock.vercel.app/
 ---
 
 ## About the App:
