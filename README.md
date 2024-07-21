@@ -21,9 +21,12 @@ Myntra Web App is a comprehensive shopping application designed to deliver a sea
    -  `JavaScript`
 -  #### Framework
    -  `Node.Js`
+   -  `React-Router`
 -  #### Libraries
    -  `Firebase`
+   -  `Bootstrap`
    -  `ReactJS`
+   -  `Material UI`
 
 ---
 ## How to Run:
