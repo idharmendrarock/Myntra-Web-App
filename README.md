@@ -28,7 +28,7 @@ Myntra Web App is a comprehensive shopping application designed to deliver a sea
 ---
 ## How to Run:
 
-### **Clone the repository:**https://github.com/idharmendrarock/Myntra-Web-App
+### **Clone the repository:** https://github.com/idharmendrarock/Myntra-Web-App
 
 ```bash
 git clone 
